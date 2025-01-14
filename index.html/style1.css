@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+h2{
+    text-align: center;
+    text-decoration:underline rgb(8, 5, 5);
+    color:hsl(0, 12%, 5%);
+    text-transform: capitalize;
+    font-size: 70px;
+    margin-top: 1px;
+  
+}
+.shyri1{
+    position: relative;
+    top: 5px;
+}
+.shyri2{
+    position: absolute;
+    right: 25px;
+}
+.shyri3{
+    position: relative;
+    top: 80px;
+}
+.shyri4{
+    position:absolute;
+    right: 25px;
+    top: 500px;
+}
+.shyri5{
+    position: relative;
+    top: 300px;
+}
+.shyri6{
+    position: absolute;
+    right: 25px;
+    top: 800px;
+}
+div{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: justify;
+    position: relative;
+    top: 900px;
+   width: 100%0;
+   font-size: x-large;
+
+     
+}
+p{
+    font-size: 40px;
+    display: inline;
+}
+body{
+    background-color: aqua;
+    color: black;
+    background-image: url(background\ image.jpg);
+    background-size: cover;
+}
